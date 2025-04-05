@@ -1,2 +1,3 @@
-# Projeto_ML_Aranou-
-Projeto solicitado pelo professor PALHARES
+# Projeto_ML_Aranouá
+
+Galera, é aqui onde podemos guardar o código mesmo
