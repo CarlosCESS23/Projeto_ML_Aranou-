@@ -1,12 +1,12 @@
-# Classificação e organização de documentos
+<h1> Classificação e organização de documentos</h1>
 
 
-## O que realmente deve-se fazer?
+<h2> O que realmente deve-se fazer?</h2>
 
 Classificar automaticamente o tipo de documento pelo candidato (Documentos de exemplo: RG, CPF, Histórico, certidão e etc)
 E com isso organizar todo esses arquivos em pastas separadas (Ou seja, cada pasta, terá o nome do candidato) que serão nomeados pelo nome ( Também pode ser pelo CPF)
 
-## O que iremos utilizar?
+<h2> O que iremos utilizar?</h2>
 
 <li>GitHub para repositório
 <li>Jupyter-notebook 
@@ -14,7 +14,7 @@ E com isso organizar todo esses arquivos em pastas separadas (Ou seja, cada past
  e Machine Learning: ( Sklearning)
 
 
-### Como algoritmo deve-se funcionar?
+<h1> Como algoritmo deve-se funcionar?</h1>
 
 Seguinte:
 
